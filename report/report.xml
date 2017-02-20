@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<openerp>
+    <data>
+        <report 
+            id="mfh_hotel_wizard_qweb"
+            model="traveler.register"
+            string="Registro de Viajero"
+            report_type="qweb-pdf"
+            name="mfh_hotel_wizard.qweb_view"
+            file="mfh_hotel_wizard.qweb_view"
+        />
+    </data>
+</openerp>
